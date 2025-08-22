@@ -9,7 +9,7 @@ export const projects = [
       "Una landing page de restaurante, sencilla y optimizada para convertir visitantes en clientes.",
     image:
       "https://images.unsplash.com/photo-1517248135467-4c7edb29db46?q=80&w=2670&auto=format&fit=crop",
-    link: "https://restaurantes-juan-felipe.vercel.app/",
+    link: "https://restaurantes-lac.vercel.app/",
     github: "https://github.com/Rastacat94/restaurantes",
   },
   {
