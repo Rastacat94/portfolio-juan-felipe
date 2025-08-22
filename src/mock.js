@@ -17,7 +17,7 @@ export const projects = [
     tagline:
       "Una descripción corta y concisa para tu segundo proyecto. Explica qué hace y su objetivo.",
     image: "https://cdn.pixabay.com/photo/2016/11/19/14/00/code-1839406_1280.jpg",
-    link: "https://github.com/Rastacat94",
+    link: "", // Deja el link vacío, ya que no tienes un proyecto en vivo
     github: "https://github.com/Rastacat94",
   },
   {
@@ -25,7 +25,7 @@ export const projects = [
     tagline:
       "Una descripción corta y concisa para tu tercer proyecto. Explica qué hace y su objetivo.",
     image: "https://cdn.pixabay.com/photo/2017/08/07/23/50/computer-2609071_1280.jpg",
-    link: "https://github.com/Rastacat94",
+    link: "", // Deja el link vacío, ya que no tienes un proyecto en vivo
     github: "https://github.com/Rastacat94",
   },
 ];
