@@ -1,0 +1,5 @@
+// Datos mock para contenido editable export const profile = { name: "Juan Felipe López Varela", tagline: "Desarrollador web y móvil para startups.", };
+
+export const projects = [ { id: "p1", title: "Directorio de Restaurantes (con panel de administración)", description: "Aplicación web para explorar restaurantes, gestionar listados y acceder a funcionalidades de administrador.", url: "https://restaurantes-lac.vercel.app/", isReal: true, }, { id: "p2", title: "Proyecto en preparación #1", description: "Descripción breve del proyecto. Espacio reservado para un futuro caso de estudio.", url: "https://ejemplo.com/proyecto-2", isReal: false, }, { id: "p3", title: "Proyecto en preparación #2", description: "Descripción breve del proyecto. Espacio reservado para un futuro caso de estudio.", url: "https://ejemplo.com/proyecto-3", isReal: false, }, ];
+
+export const contact = { email: "lopezvarelajuan@hotmail.com", github: "https://github.com/Rastacat94", linkedin: "https://www.linkedin.com/in/lopezvarelajuan", };
